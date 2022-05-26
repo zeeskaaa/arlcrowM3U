@@ -1,10 +1,7 @@
 #EXTM3U
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 tvg-name="Первый канал" group-title="Новости", Первый канал
-#EXTGRP:Новости
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Россия 1 HD" group-title="Новости", Россия 1 HD
-#EXTGRP:Новости
-https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
 #EXTINF:-1 tvg-name="Домашний" group-title="Развлекательные", Домашний
 #EXTGRP:Развлекательные
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 tvg-name="Россия 1" group-title="Новости;Фильмы", Россия 1
+#EXTGRP:Новости;Фильмы
+https://vgtrkregion.cdnvideo.ru/vgtrk/petersburg/russia1sd/playlist_vtt.m3u8
