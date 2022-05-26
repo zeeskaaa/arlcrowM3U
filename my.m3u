@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Первый канал" group-title="Новости", Первый канал
+https://cdn12-spb.ertelecom.ru/content/channel_secure/local/s109060863d135170083d0k0e1653825903mb102400mb5120000t1/M7R3hoJsQ-9fH3K3M0fyfg/46432ab38a96fd67c8c0252945b6edb056f793f0/firsthd_0/track_1/track.m3u8\?utcstart\=0
 #EXTINF:-1 tvg-name="Россия 1" group-title="Новости;Развлекательные", Россия 1
 https://vgtrkregion.cdnvideo.ru/vgtrk/petersburg/russia1sd/playlist_vtt.m3u8
 #EXTINF:-1 tvg-name="Домашний" group-title="Развлекательные", Домашний
