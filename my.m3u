@@ -5,6 +5,10 @@ http://195.2.74.99/channel/2ec94f02/index.m3u8?q=54cf135238a2c9cb122f4ce6651e94b
 https://vgtrkregion.cdnvideo.ru/vgtrk/petersburg/russia1sd/playlist_vtt.m3u8
 #EXTINF:-1 tvg-name="Домашний" group-title="Развлекательные", Домашний
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 tvg-name="Русский роман" group-title="Развлекательные", Русский роман
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Ruskiy_roman_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiIyNDA0MDkwMDAzMjQwMiIsImh3aWQiOiJlMGRhMmU5MDY4YzU0MDA3NWM5ZTA4MWZjODg5YTQ2ZGY2MjU0ODgyYTFmZWQzZmM0NWE0NDM0NDgwZDU5MjhiIiwic2Vzc2lvbl9pZCI6IjMwMmMyZjVkNzFmMWFkZTMyYmM2NDllNzVjNDkxZmZjIiwidG9rZW5fdHlwZSI6IkNvbnRlbnRBY2Nlc3NUb2tlbiIsInR5cGUiOiJNT1pJTExBIn0.SqlkoBqwpwWUzAM5kKgkkwnAwvGEtXONEW_GTv6T7-w
+#EXTINF:-1 tvg-name="НТВ" group-title="Развлекательные", НТВ
+http://195.2.74.99/channel/39abcd91/index.m3u8?q=54cf135238a2c9cb122f4ce6651e94bd
 #EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные", ТНТ
 https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 tvg-name="Пятница" group-title="Развлекательные", Пятница
@@ -15,5 +19,3 @@ https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
 #EXTINF:-1 tvg-name="ТВ-3" group-title="Развлекательные", ТВ-3
 https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
-#EXTINF:-1 tvg-name="Русский роман" group-title="Развлекательные", Русский роман
-https://cdn4-spb.ertelecom.ru/content/channel_secure/local/s109060863d135170083d0k0e1653825903mb102400mb5120000t1/gkDSILF5dkALfq8dTLkSww/46432ab38a96fd67c8c0252945b6edb056f793f0/russkijromanhd_0/track_1/track.m3u8\?utcstart\=0
