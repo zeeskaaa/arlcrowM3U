@@ -3,7 +3,13 @@
 https://vgtrkregion.cdnvideo.ru/vgtrk/petersburg/russia1sd/playlist_vtt.m3u8
 #EXTINF:-1 tvg-name="Домашний" group-title="Развлекательные", Домашний
 https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 tvg-name="ТНТ" group-title="Развлекательные", ТНТ
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
+#EXTINF:-1 tvg-name="Пятница" group-title="Развлекательные", Пятница
+https://bl.uma.media/live/410336/HLS_R/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613010957/e2cf94524a064ecb46389bb54a359d9a/playlist.m3u8
 #EXTINF:-1 tvg-name="СТС" group-title="Развлекательные", СТС
 https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 #EXTINF:-1 tvg-name="Че!" group-title="Развлекательные", Че!
 https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 tvg-name="ТВ-3" group-title="Развлекательные", ТВ-3
+https://bl.uma.media/live/407373/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
